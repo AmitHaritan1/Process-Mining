@@ -79,9 +79,9 @@ Group 5 – June 2025
 
 ## 📝 Acknowledgements
 
-- Special thanks to the workshop instructors and the providers of the Sepsis Cases Event Log.
-- Event log sourced from the [BPI Challenge 2019](https://www.tf-pm.org/process-mining-bpi-challenge)
+- Dataset citation:  
+  Mannhardt, Felix (2016): *Sepsis Cases - Event Log*. Version 1. 4TU.ResearchData. [https://doi.org/10.4121/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460](https://doi.org/10.4121/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460)
 
 ## 📽️ Presentation
 
-You can view the full project presentation [here](./presentation/Final%20Presentation%20-%20Process%20Mining.pptx).
+You can view the full project presentation [here](https://github.com/AmitHaritan1/Process-Mining/blob/main/Final%20Presentation%20-%20Process%20Mining.pptx).
