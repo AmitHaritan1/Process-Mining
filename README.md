@@ -70,7 +70,6 @@ Edit
 
 ## 🎓 Team
 
-Group 5 – June 2025  
 - Amit Haritan  
 - Elore Paz  
 - Alisa Bogomolny  
@@ -79,7 +78,7 @@ Group 5 – June 2025
 ## 📝 Acknowledgements
 
 - Dataset citation:  
-  Mannhardt, Felix (2016): *Sepsis Cases - Event Log*. Version 1. 4TU.ResearchData. [https://doi.org/10.4121/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460](https://doi.org/10.4121/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460)
+  Mannhardt, Felix (2016): *Sepsis Cases - Event Log*. Version 1. 4TU.ResearchData. [Dataset](https://doi.org/10.4121/uuid:915d2bfb-7e84-49ad-a286-dc35f063a460)
 
 ## 📽️ Presentation
 
