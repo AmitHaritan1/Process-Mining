@@ -1,4 +1,3 @@
-# Process-Mining
 # 🏥 Process Mining on Sepsis Cases
 
 This repository contains the work conducted as part of our project on **Process Mining** using the **Sepsis Cases - Event Log** dataset. Our goal was to analyze patient treatment paths, detect process inefficiencies, and assess compliance with clinical guidelines using process mining techniques.
